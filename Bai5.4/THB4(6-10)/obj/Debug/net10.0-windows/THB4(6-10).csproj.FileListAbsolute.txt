@@ -1,0 +1,34 @@
+D:\LT .NET\THB4(6-10)\THB4(6-10)\bin\Debug\net10.0-windows\THB4(6-10).exe
+D:\LT .NET\THB4(6-10)\THB4(6-10)\bin\Debug\net10.0-windows\THB4(6-10).deps.json
+D:\LT .NET\THB4(6-10)\THB4(6-10)\bin\Debug\net10.0-windows\THB4(6-10).runtimeconfig.json
+D:\LT .NET\THB4(6-10)\THB4(6-10)\bin\Debug\net10.0-windows\THB4(6-10).dll
+D:\LT .NET\THB4(6-10)\THB4(6-10)\bin\Debug\net10.0-windows\THB4(6-10).pdb
+D:\LT .NET\THB4(6-10)\THB4(6-10)\obj\Debug\net10.0-windows\THB4_6_10_.Form1.resources
+D:\LT .NET\THB4(6-10)\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).csproj.GenerateResource.cache
+D:\LT .NET\THB4(6-10)\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .NET\THB4(6-10)\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).AssemblyInfoInputs.cache
+D:\LT .NET\THB4(6-10)\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).AssemblyInfo.cs
+D:\LT .NET\THB4(6-10)\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).csproj.CoreCompileInputs.cache
+D:\LT .NET\THB4(6-10)\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).dll
+D:\LT .NET\THB4(6-10)\THB4(6-10)\obj\Debug\net10.0-windows\refint\THB4(6-10).dll
+D:\LT .NET\THB4(6-10)\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).pdb
+D:\LT .NET\THB4(6-10)\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).genruntimeconfig.cache
+D:\LT .NET\THB4(6-10)\THB4(6-10)\obj\Debug\net10.0-windows\ref\THB4(6-10).dll
+D:\LT .NET\THB4(6-10)\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).csproj.Up2Date
+E:\Bai5.4\THB4(6-10)\bin\Debug\net10.0-windows\THB4(6-10).exe
+E:\Bai5.4\THB4(6-10)\bin\Debug\net10.0-windows\THB4(6-10).deps.json
+E:\Bai5.4\THB4(6-10)\bin\Debug\net10.0-windows\THB4(6-10).runtimeconfig.json
+E:\Bai5.4\THB4(6-10)\bin\Debug\net10.0-windows\THB4(6-10).dll
+E:\Bai5.4\THB4(6-10)\bin\Debug\net10.0-windows\THB4(6-10).pdb
+E:\Bai5.4\THB4(6-10)\obj\Debug\net10.0-windows\THB4_6_10_.Form1.resources
+E:\Bai5.4\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).csproj.GenerateResource.cache
+E:\Bai5.4\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).GeneratedMSBuildEditorConfig.editorconfig
+E:\Bai5.4\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).AssemblyInfoInputs.cache
+E:\Bai5.4\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).AssemblyInfo.cs
+E:\Bai5.4\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).csproj.CoreCompileInputs.cache
+E:\Bai5.4\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).dll
+E:\Bai5.4\THB4(6-10)\obj\Debug\net10.0-windows\refint\THB4(6-10).dll
+E:\Bai5.4\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).pdb
+E:\Bai5.4\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).genruntimeconfig.cache
+E:\Bai5.4\THB4(6-10)\obj\Debug\net10.0-windows\ref\THB4(6-10).dll
+E:\Bai5.4\THB4(6-10)\obj\Debug\net10.0-windows\THB4(6-10).csproj.Up2Date
