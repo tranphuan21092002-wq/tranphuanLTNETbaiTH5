@@ -1,0 +1,10 @@
+E:\Bai5.1_06102026\Bai5.1_06102026\bin\Debug\Bai5.1_06102026.exe.config
+E:\Bai5.1_06102026\Bai5.1_06102026\bin\Debug\Bai5.1_06102026.exe
+E:\Bai5.1_06102026\Bai5.1_06102026\bin\Debug\Bai5.1_06102026.pdb
+E:\Bai5.1_06102026\Bai5.1_06102026\obj\Debug\Bai5.1_06102026.csproj.AssemblyReference.cache
+E:\Bai5.1_06102026\Bai5.1_06102026\obj\Debug\Bai5._1_06102026.Form1.resources
+E:\Bai5.1_06102026\Bai5.1_06102026\obj\Debug\Bai5._1_06102026.Properties.Resources.resources
+E:\Bai5.1_06102026\Bai5.1_06102026\obj\Debug\Bai5.1_06102026.csproj.GenerateResource.cache
+E:\Bai5.1_06102026\Bai5.1_06102026\obj\Debug\Bai5.1_06102026.csproj.CoreCompileInputs.cache
+E:\Bai5.1_06102026\Bai5.1_06102026\obj\Debug\Bai5.1_06102026.exe
+E:\Bai5.1_06102026\Bai5.1_06102026\obj\Debug\Bai5.1_06102026.pdb
